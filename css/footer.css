@@ -1,0 +1,236 @@
+
+.LowerGroup{
+    position: absolute;
+	width: 1920px;
+	height: 640px;
+	left: 0px;
+	top: 2309px;
+
+background: #EDEDED;
+}
+
+.AgriderasMain{
+    position: absolute;
+	width: 776px;
+	height: 91px;
+	left: 572px;
+	top:70px;
+
+	font-family: 'Roboto Slab';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 64px;
+	line-height: 142.7%;
+	color: #324950;
+}
+
+.UnderAgrideras{
+    position: absolute;
+	width: 776px;
+	height: 91px;
+	left: 936px;
+	top: 156px;
+
+	font-family: 'Roboto Slab';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 64px;
+	line-height: 142.7%;
+	color: #324950;
+}
+
+.FirstImage{
+	position: absolute;
+	width: 354px;
+	height: 261px;
+	left: 399px;
+	top: 200px;
+}
+
+.FirstText{
+	position: absolute;
+	width: 243px;
+	height: 34px;
+	left: 454px;
+	top: 422px;
+	font-family: 'Roboto Slab';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 142.7%;
+	color: #57984C;
+}
+
+.FirstLine{
+	position: absolute;
+	width: 183px;
+	height: 0px;
+	left: 484px;
+	top: 483px;
+	border: 1px solid #57984C;
+}
+
+.FirstContent{
+	position: absolute;
+	width: 243px;
+	height: 52px;
+	left: 454px;
+	top: 503px;
+	font-family: 'Roboto Slab';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 142.7%;
+	text-align: center;
+	color: #324950;
+}
+
+.SecondImage{
+	position: absolute;
+	width: 232px;
+	height: 232px;
+	left: 843px;
+	top: 175px;
+}
+
+.SecondText{
+	position: absolute;
+	width: 183px;
+	height: 34px;
+	left: 869px;
+	top: 422px;
+	font-family: 'Roboto Slab';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 142.7%;
+	color: #57984C;
+}
+
+.SecondLine{
+	position: absolute;
+	width: 183px;
+	height: 0px;
+	left: 869px;
+	top: 483px;
+	border: 1px solid #57984C;
+}
+
+.SecondContent{
+	position: absolute;
+	width: 245px;
+	height: 52px;
+	left: 838px;
+	top: 497px;
+	font-family: 'Roboto Slab';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 142.7%;
+	text-align: center;
+	color: #324950;
+}
+
+.ThirdImage{
+	position: absolute;
+	width: 295px;
+	height: 213px;
+	left: 1206px;
+	top: 219px;
+	}
+
+.ThirdText{
+	position: absolute;
+	width: 206px;
+	height: 34px;
+	left: 1244px;
+	top: 422px;
+	font-family: 'Roboto Slab';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 142.7%;
+	color: #57984C;
+}
+
+.ThirdLine{
+	position: absolute;
+	width: 183px;
+	height: 0px;
+	left: 1255px;
+	top: 483px;
+	border: 1px solid #57984C;
+}
+
+.ThirdContent{
+	position: absolute;
+	width: 292px;
+	height: 52px;
+	left: 1201px;
+	top: 497px;
+	font-family: 'Roboto Slab';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 142.7%;
+	text-align: center;
+	color: #324950;
+}
+
+.LowerNavgroup{
+	background:#2D3F45; 
+	position: absolute;
+	width: 1920px;
+	height: 76px;
+	max-height: 76px;
+	left: 0px;
+	top: 2949px;
+	color: white;
+}
+
+.LowerNav{
+	position: absolute;
+	width: 724px;
+	height: 23px;
+	left: 405px;
+	top:27px;
+	display: flex;
+    justify-content: space-between;
+	
+}
+
+.lower_nav-link{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 142.7%;
+	color: #FFFFFF;
+}
+
+.SocialNetwork{
+	padding-top: 23px;
+	padding-left: 1303px;
+}
+
+.LowerEnd{
+	position: absolute;
+	width:1920px;
+	height: 51px;
+	background: #324950;;
+	margin-top: 1969px;
+	
+}
+
+.TextEnd{
+	text-align: center;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 142.7%;
+	padding-top:18px;
+
+
+	color: #B9B9B9;
+}
